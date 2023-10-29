@@ -1,0 +1,23 @@
+{
+  "hash": "d9882fd0",
+  "browserHash": "8d1a8a01",
+  "optimized": {
+    "vue": {
+      "src": "../../vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "cc580913",
+      "needsInterop": false
+    },
+    "vue-burger-menu": {
+      "src": "../../vue-burger-menu/dist/vue-burger-menu.common.js",
+      "file": "vue-burger-menu.js",
+      "fileHash": "1a45c2e6",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-76J2PTFD": {
+      "file": "chunk-76J2PTFD.js"
+    }
+  }
+}
